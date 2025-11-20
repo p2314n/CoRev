@@ -1,0 +1,32 @@
+UNIT-1
+Introduction to 8-bit microprocessor: Microcomputers and microprocessors, 8/ 16/ 32/ 64-bit 
+microprocessor families; Internal architecture of Intel 8085 microprocessor: Block diagram, 
+Registers, Internal Bus Organization, Functional details of pins, Control signals, External 
+Address / Data bus multiplexing, De-multiplexing, Serial communication and DMA features, 
+Intel 8086, x86 and Pentium microprocessors Block diagrams.
+
+UNIT-2
+Assembly Language Programming: 8085 instructions set: Instructions, Classifications, 
+Addressing modes, Stack and Subroutines, Delay routines, Counters etc., Programming 
+examples.
+
+UNIT-3
+Interfacing concepts and devices: Memory interface: Concept of memory chip/ chips interface 
+to 8085 with appropriate examples, / IO mapped I/ O, and memory mapped I/ O 
+techniques. Programmable interfacing devices: - Programmable peripheral interface (Intel 
+8255), Programmable timer interface (Intel 8253/ 54), Programmable display / Keyboard 
+interface (Intel 8279), Programmable serial communication interface (Intel 8251) -(their 
+architecture, register organization, initialization, hardware, and software interface to 8085.
+
+UNIT- 4
+Instruction Timing and Interrupts: Timing Diagrams (of various instructions): T- state, 
+Machine cycle (Opcode fetch, Read / Write, Interrupts, Interrupt Acknowledge, Bus Idle, etc), 
+Interrupts: -types (h/ w and s/ w), Maskable / Non maskable and their organization.
+
+UNIT 5
+Introduction to Intel Architecture, How an Intel Architecture System works, Internal 
+architecture of Basic Components of the Intel Core 2 Duo Processor: The CPU, Memory 
+Controller, I/O Controller; Intel Core i7: Architecture, The Intel Core i7 Processor, Intel 
+QuickPath Interconnect, The SCH; Intel Atom Architecture. Introduction to Texas 
+Instruments’ Multi-Core Multilayer SoC architecture for communications, infrastructure 
+equipment.

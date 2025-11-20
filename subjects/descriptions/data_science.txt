@@ -1,0 +1,25 @@
+Unit I:
+Introduction to Data Science, Definition and description of Data Science, history and 
+development of Data Science, terminologies related with Data Science, basic framework and 
+architecture, importance of Data Science in today’s business world, primary components of 
+Data Science, users of Data Science and its hierarchy, overview of different Data Science 
+techniques.
+
+Unit II:
+Sample spaces, events, Conditional probability, and independence. Random variables. 
+Discrete and continuous random variables, densities and distributions, Normal distribution 
+and its properties, Introduction to Markov chains, random walks, Descriptive, Predictive, 
+and prescriptive statistics, Statistical Inference, Populations and samples, Statistical 
+modelling,
+
+Unit III:
+Exploratory Data Analysis and the Data Science Process - Basic tools (plots, graphs, and 
+summary statistics) of EDA - Philosophy of EDA - The Data Science Process - Case Study
+
+Unit IV:
+Data Visualization: Basic principles, ideas and tools for data visualization, Examples of 
+inspiring (industry) projects, Exercise: create your own visualization of a complex dataset.
+
+Unit V:
+NoSQL, use of Python as a data science tool, Python libraries: SciPy and sci-kitLearn, 
+PyBrain, Pylearn, Matplotlib, challenges and scope of Data Science project management.

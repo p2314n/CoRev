@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/logo.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  {% include 'html/logo.html' %}
+  <!-- Top bar -->
+ <header class="top-bar">
+    <div class="user-dropdown" id="userDropdown">
+      <h2>
+        👤 {{ user.first_name }} {{ user.last_name }} ({{ user.designation | capitalize }})
+      </h2>
+      <div class="dropdown-menu" id="dropdownMenu">
+        <a href="{{ url_for('logout_bp.logout') }}">Logout</a>
+      </div>
+    </div>
+
+    <div class="search-bar">
+      <input type="text" id="search" placeholder="Search subjects...">
+    </div>
+  </header>
+
+  <!-- Card Grid -->
+  <main class="card-grid">
+    {% for subject in subjects %}
+      <a href="{{ url_for('subject_bp.detail', subject_id=subject.id) }}" class="card-link">
+        <div class="card">
+          <img src="{{ url_for('static', filename='images/' ~ subject.image) }}" alt="{{ subject.name }}">
+          <h3>{{ subject.name }}</h3>
+          {% if subject.avg_rating %}
+            <p class="avg-rating">⭐ {{ subject.avg_rating }}/5</p>
+          {% else %}
+            <p class="avg-rating">⭐ No ratings yet</p>
+          {% endif %}
+        </div>
+      </a>
+    {% endfor %}
+  </main>
+
+  <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html>

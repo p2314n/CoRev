@@ -1,0 +1,30 @@
+Unit- I
+Difference Between Computer Organization and Computer Architecture, Computer Types, 
+Functional Units, Basic Operational Concepts: Bus Structures, Generation of computer, 
+Introduction to computer operation with a simple 8bit -instruction computer illustrating 
+assembly and machine language.Register Transfer language. Register Transfer Bus and 
+memory transfers, Arithmetic Microoperations, logic micro operations, shift micro operations, 
+Arithmetic logic shift unit.
+
+Unit-II
+Instruction codes, Registers, Buses, Design of computer Instructions, Timing and control, 
+Instruction Cycle, Memory-Reference Instructions, Input-Output Interrupt, Design of Basic 
+Computer, Accumulator logic. Programming the basic Computer-Machine Language, 
+Assembly Language, Assembler. Address Sequencing, Microprogram Instructions Format, 
+Addressing Modes.
+
+Unit- III
+Computer Arithmetic- Addition and Subtraction with signed magnitude, Multiplication and 
+Division Algorithms, Divide Overflow Booth Multiplication Algorithm, Hardware 
+implementation for signed -Magnitude and hardware algorithms.
+
+UNIT-IV
+Input -Output Organization. Input-Output Interface, Synchronous vs Asynchronous Data 
+Transfer, Modes of Transfer- Interrupt and its Priority, DMA. Memory Hierarchy- Main 
+Memory, Auxiliary Memory, Associative Memory, Cache Memory, Virtual Memory, Memory 
+Management Hardware.
+
+Unit-V
+Flynn’s Classification, RISC and CISC Processor, Pipelining and Vector Processing, Parallel 
+Processing, Array processor, Multiprocessor Architectures Organization, Multi-core 
+Architectures, Inter-processor Communication, System-on-Chips.

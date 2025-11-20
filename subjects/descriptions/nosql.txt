@@ -1,0 +1,33 @@
+Unit I: Introduction to NoSQL
+Understanding NoSQL Databases, History of NoSQL, Features of NoSQL, Scalability, Cost, 
+Flexibility, NoSQL Business Drivers, Classification and Comparison of NoSQL Databases, 
+Consistency – Availability - Partitioning (CAP), Limitations of Relational Databases, Comparing 
+NoSQL with RDBMS
+Managing Different Data Types, Columnar, Key-Value Stores, Triple and Graph Stores, Document, 
+Search Engines, Hybrid NoSQL Databases, Applying Consistency Methods, ACID, BASE, Polyglot 
+persistence
+
+Unit II: Evaluating NoSQL
+The Technical Evaluation, Choosing NoSQL, Search Features, Scaling NoSQL, Keeping Data Safe, 
+Visualizing NoSQL, Extending Data Layer, Business Evaluation, Deploying Skills, Deciding Open 
+Source versus commercial software, Business critical features, Security
+
+Unit III: Key-Value & Document Based Databases
+Introduction to Key-Value Databases, Key Value Store, Essential Features, Consistency, Transactions, 
+Partitioning, Scaling, Replicating Data, Versioning Data, how to construct a Key, Using Keys to Locate 
+Values, Hash Functions, Store data in Values, Use Cases.
+Introduction to Document Databases, Supporting Unstructured Documents, Document Databases Vs. 
+Key-Value Stores, Basic Operation on Document database, Partition, Sharding, Features, Consistency, 
+Transactions, Availability, Scaling, Use Cases.
+
+Unit IV: Column-Oriented & Graph Based Databases 
+Introduction to Column Family Database, Features, Architectures, Differences and Similarities to Key 
+Value and Document Database, Consistency, Transactions, Scaling, Use Cases. Introduction to Graph 
+Databases, Advantages, Features, Consistency, Transactions, Availability, Scaling, Graph & Network 
+Modelling, Properties of Graphs and Noes, Types of Graph, Undirected and directed Graph, Flow 
+Network, Bipartite Graph, Multigraph, Weighted Graph.
+
+Unit V: Search Engine
+Common Feature of Search Engine, Dissecting a Search Engine, Search versus query, Web crawlers, 
+Indexing, Searching, indexing Data Stores, Altering, Using Reverse queries, Use Cases, Types of 
+Search Engine, Elastic Search

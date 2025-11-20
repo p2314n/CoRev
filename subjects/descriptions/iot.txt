@@ -1,0 +1,23 @@
+Unit-1
+Introduction : Definition, Characteristics of IoT, IoT Architectural view, Physical design 
+of IoT, IoT Protocols, Communication Models of IoT, IoT Communication APIs, IoT 
+Enabling Technologies.
+
+Unit-2
+IoT and M2M: Machine-to-Machine (M2M), Difference between M2M and IoT, SDN 
+(Software Defined Networking) and NFV (Network Function Virtualization) for IoT, Data 
+Storage in IoT, IoT Cloud Based Services.
+
+Unit –3
+IoT Platform Design Methodology: Specifications of Purpose and Requirement, Process, 
+Domain Model, Information Model, Service, IoT Level, Functional View, Operational 
+View, Device and Component Integration, Application Development.
+
+Unit –4
+Security issues in IoT: Introduction, Vulnerabilities, Security requirements and threat 
+analysis, IoT security Tomography, layered attacker model, identity management and 
+establishment, access control.
+
+Unit-5
+Application areas of IoT: Home Automation, smart lighting, home intrusion detection, smart 
+cities, smart parking, environment, weather monitoring system, agriculture.

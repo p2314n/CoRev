@@ -1,0 +1,26 @@
+Unit-I
+Introduction to object-oriented programming, Characteristics, Applications, difference 
+between object oriented and procedure-based programming, object-oriented programming 
+languages, Object oriented concepts: Abstraction, Encapsulation, Polymorphism, Inheritance 
+and Information Hiding.
+
+Unit-II
+Abstract data types, Objects and classes, Attributes and Methods, Objects as software units, 
+Encapsulation and Information hiding, Objects instantiations and interactions, Objectlifetime, 
+Static and dynamic objects, global and local objects, Meta-class
+
+Unit-III
+Relationships between classes, Association of objects, Types of Association, Recursive 
+Association, Multiplicities, Navigability, Named association, Aggregation of objects. Types of 
+Aggregation, Delegation, Modeling Association and Aggregation.
+
+Unit-IV
+Inheritance and Polymorphism, Types of polymorphism, Static and dynamic polymorphism, 
+Operator and Method overloading, Inherited methods, Redefined methods, the protected 
+interface, Abstract methods and classes, Public and protected properties, Private operations, 
+Disinheritance, Multiple inheritance.
+
+Unit-V
+Template Classes and Functions, Container Classes, Container types, typical functions and 
+iterator methods, Heterogeneous containers, Persistent objects, stream, and files, Object 
+oriented programming languages.

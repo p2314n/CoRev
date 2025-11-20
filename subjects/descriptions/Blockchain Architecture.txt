@@ -1,0 +1,18 @@
+Unit I: Cryptocurrency: History, electronic cash, double spending problem, Bitcoin 
+protocols, Mining strategy and rewards, Types of crypto currency wallets, Legal aspects 
+of crypto currency, Crypto currency exchanges.
+
+Unit II: Introduction to Blockchain: History of blockchain, Hash functions, SHA-256, 
+Symmetric cryptography, Asymmetric cryptography, Keys & Digital signatures, benefits 
+and limitation of block chain, features of blockchain. 
+
+Unit III: Consensus: Nakamoto consensus, Proof of work, Proof of stake, Proof of burn, 
+Difficulty Level, Sybil attack, Energy utilization, collision of energy utilization, 
+Introduction to ethereum.
+
+ Unit IV: Blockchain Architectures: Blockchain network, Merkle patricia Tree, Soft & 
+hard fork, Private and public blockchain, Tokenized blockchain. 
+
+ Unit V: Blockchain Applications: Financial Sector, Medical record management system, 
+domain name service and future of block chain, case study: Government on blockchain. 
+Introduction to hashgraph and tangle.

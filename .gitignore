@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.* 
+*.env
+
+# Editor / OS files
+.vscode/
+.DS_Store
+.idea/
+*.swp
+
+# PyCharm / caches
+*.iml
+
+# Database (local)
+*.db
+
+# Secrets logs etc
+secrets.txt
+credentials.json 

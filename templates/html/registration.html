@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/registration.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/logo.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+  {% include 'html/logo.html' %}
+
+  <main class="card" role="region" aria-labelledby="title">
+    <h1 id="title">Register Yourself</h1>
+    <p class="subtitle">Fill in your name and choose your designation.</p>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <ul class="flashes">
+          {% for category, message in messages %}
+            <li class="{{ category }}">{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    <form id="regForm" action="{{ url_for('register_bp.register') }}" method="post" novalidate>
+      <div class="row">
+        <div>
+          <label for="firstName">First Name<span aria-hidden="true">*</span></label>
+          <input id="firstName" name="first_name" type="text" placeholder="First Name" required />
+          <div class="note" id="firstNameNote" aria-live="polite"></div>
+        </div>
+        <div>
+          <label for="lastName">Last Name<span aria-hidden="true">*</span></label>
+          <input id="lastName" name="last_name" type="text" placeholder="Last Name" required />
+          <div class="note" id="lastNameNote" aria-live="polite"></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div>
+          <label for="username">Username<span aria-hidden="true">*</span></label>
+          <input id="username" name="username" type="text" placeholder="Choose a username" required />
+          <div class="note" id="usernameNote" aria-live="polite"></div>
+        </div>
+        
+        <div>
+          <label for="password">Password<span aria-hidden="true">*</span></label>
+          <div class="password-wrapper">
+            <input id="password" name="password" type="password" placeholder="Create a password" required />
+            <button type="button" id="togglePassword" class="toggle-btn" aria-label="Show password">
+              👁️
+            </button>
+          </div>
+          <div class="note" id="passwordNote" aria-live="polite"></div>
+        </div>
+
+      <div>
+        <label for="designation">Designation<span aria-hidden="true">*</span></label>
+        <select id="designation" name="designation" required>
+          <option value="" disabled selected>Select designation</option>
+          <option value="student">Student</option>
+          <option value="professor">Professor</option>
+          <option value="industry_expert">Industry Expert</option>
+          <option value="other">Others</option>
+        </select>
+        <div class="note">Choose "Others" if your role isn't listed.</div>
+      </div>
+
+      <div id="otherWrapper" class="other-input">
+        <label for="otherText">Please specify</label>
+        <input id="otherText" name="other_designation" type="text" placeholder="e.g., Research Associate" />
+      </div>
+
+      <div class="actions">
+        <button type="submit" class="primary">Submit</button>
+        <button type="reset" class="ghost">Reset</button>
+      </div>
+
+      <div class="login-link">
+        <p>Already registered? <a href="{{ url_for('login_bp.login') }}">Login here</a></p>
+      </div>
+
+    </form>
+  </main>
+
+  <!-- External JS -->
+  <script src="{{ url_for('static', filename='js/registration.js') }}"></script>
+</body>
+</html>

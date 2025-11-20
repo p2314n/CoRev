@@ -1,0 +1,24 @@
+Unit-I Introduction to Computer and Problem-Solving Methodology
+Computer System, Computing Environments, Software, Types of Software and Features of Software.
+Design Tools (Algorithm, Flow-Chart, Pseudo-Code). Types and Generations of Programming Languages. 
+Compiler, Interpreter, Linker, Loader, Execution of Program. Develop an Algorithm for Simple Problems.
+
+Unit-II Basics of Language
+Character set, Identifier, Keywords, Constants, Data Types, Preprocessor Directives, Variables and Declaration, 
+White Space and Escape Sequence, Operators and Expressions, Type Conversions, Operator Precedence and 
+Associativity, Expression Evaluation, Input and Output Functions. Computational Problems Solving Based on 
+above Constructs.
+
+Unit-III Control Statements
+Selection (If, Else), Conditional Operator, Iteration (For, While, Do-While), Branching (Switch, Break, 
+Continue, Goto), Nesting of Control Statements. Problem Solving Based on Control Statements.
+
+Unit-IV Arrays and Strings
+Defining an Array, One Dimensional Array, Two-Dimensional Array, Multi-Dimensional Array. Basic Array 
+Operations and Matrix Manipulation Operations (Addition, Subtraction, and Multiplication). Problem Solving 
+Based on Array.
+Strings Definition, String Operations and String Functions. Problem Solving Based on Strings.
+
+Unit-V Functions
+Introduction, Functions Declaration, Definition, Calling, Return Statement, Parameter Passing (By Value), 
+Recursion, Library Functions. Problem Solving Based on Functions.

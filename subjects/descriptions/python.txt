@@ -1,0 +1,26 @@
+Unit-1 Basic Introduction
+Introduction to Python, History, Features, command interpreter and development 
+environment-IDLE, Application of Python, Python 2/3 differences, Basic program 
+structure-quotation and indentation, Operator, Basic data types and In-built objects.
+
+Unit-2 Function and Sequence
+Functions: definition and use, Arguments, Block structure, scope, Recursion, 
+Argument passing, Conditionals and Boolean expressions, Lambda Function, 
+inbuild functions 
+(str(),globals(),locals(),vars(),eval(),exec(),execfile(),repr(),ascii()) 
+Sequences: Strings, Tuples, Lists Iteration, looping and control flow, String 
+methods and formatting.
+
+Unit-3 File Operation & OOPS concepts
+Reading config files in python, Writing log files in python, Understanding read functions, 
+read(), readline() and readlines(), Understanding write functions, write() and 
+writelines(), Manipulating file pointer using seek.
+
+Unit-4 OOPS Concepts
+Object Oriented concepts- Encapsulation, Polymorphism, Classes, Class instances, 
+Constructors & Destructors__init__, __del__, Multiple inheritance, Operator overloading 
+Properties, Special methods, Emulating built-in types.
+
+Unit-5 Mutable data types, Exception and Standard modules
+Dictionaries, Sets and Mutability, Exceptions, List and Dict Comprehensions, Standard 
+Modules-math, random Packages.

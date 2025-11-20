@@ -1,0 +1,31 @@
+Unit I
+Basics of JAVA: Overview of Java, History and Evolution of Java, Feature of Java, Difference 
+between Java, C++ and C, Structure of java program, Basics ofJDK, JRE and JVM, Installation 
+of JDK, Simple Java Program, Compilation and Execution of Java program. Elements of Java: 
+keywords, data types, variable, declaration and initialization of a variable, the scope and life 
+time of variable, constants, literals, identifiers, operators, types of java statements, Unicode 
+System, Naming Convention, Comments, Arrays, type conversion and casting.
+
+Unit II
+Dynamic Method Dispatch: Garbage Collection, static and dynamic binding, Inheritance and 
+its types, Interfaces. Java Packages: Definition of package, types of packages, differentiate 
+package from header file, importing package, creating package.
+
+Unit III
+String in Java: Overview of string, Immutable String, String Comparison, String 
+Concatenation, Substring, Methods of String class, String Buffer class, Creating Immutable 
+class to String method.
+
+Unit IV
+Exception Handling: Defining exception, types of exception, exception class, try and catch 
+block, multiple catch blocks, Nested try, finally block, throw keyword, Exception Propagation, 
+throws Keyword. Multithreading: Overview of thread, thread types, Life Cycle of a thread, 
+creating thread, sleeping a thread, joining a thread, thread Priority, Daemon thread.
+
+Unit V
+I/O Handling: File Output Stream & File Input Stream, Buffered Output Stream & Buffered 
+Input Stream, Input from keyboard by Input Stream Reader, Input from keyboard by Console, 
+Input from keyboard by Scanner, Print Stream class. Java Applets: Applet Basics, the Applet 
+Class, Applet Architecture, Applet Initialization and Termination, the HTML APPLET Tag, 
+Passing Parameters to Applets. Introducing the AWT: Introduction to Windows, Graphics, and 
+Text, AWT Classes, Window Fundamentals, Component, Container, Panel, Frame.

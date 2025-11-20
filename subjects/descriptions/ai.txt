@@ -1,0 +1,18 @@
+Unit 1: Introduction to artificial intelligence, various types of production systems, 
+Characteristics of production systems, Study and comparison of breadth first search 
+and depth first search techniques.
+
+Unit 2: Optimization Problems: Hill-climbing search Simulated annealing 
+likehillClimbing, BestfirstSearch.A*algorithm*algorithms etc, and various types of 
+control strategies, Heuristic Functions, Constraint Satisfaction Problem.
+
+Unit 3: Knowledge Representation, structures, Predicate Logic, Resolution, 
+Refutation, Deduction, Theorem proving, Inferencing, Semantic networks, Scripts, 
+Schemas, Frames, Conceptual dependency.
+
+Unit 4: Uncertain Knowledge and Reasoning, forward and backward reasoning, 
+monotonic and nonmonotonic reasoning, Probabilistic reasoning, Baye’s theorem, 
+Decision Tree, Understanding, Common sense, Planning.
+
+Unit 5: Game playing techniques like minimax procedure, alpha-beta cut-offs etc, 
+Study of the block world problem in robotics.

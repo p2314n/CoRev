@@ -1,0 +1,35 @@
+Unit-1
+Finite Automata and Regular Languages
+Motivation for studying theory of computation, Notion of formal languages and grammars, 
+Kleene’s Closure, Regular Expressions and Regular languages, closure properties of regular 
+languages, Finite Automata. Finite Automata with output: Mealy and Moore machines, 
+applications.
+
+Unit-2
+Nondeterminism and Minimization
+Nondeterministic Finite Automata, Acceptance condition. Kleene’s Theorem, Myhill-Nerode 
+relations, Minimization Algorithm, Non-Regular languages, Pumping Lemma for regular 
+languages.
+
+Unit-3
+Grammars and Context-Free Languages
+Grammars and Chomsky Hierarchy, Context-Free Grammars, Context-Free Languages 
+(CFLs), Inherent Ambiguity of CFLs, closure properties of CFLs, Eliminating useless symbols; 
+null-productions; and unit productions, Chomsky Normal Form, Greibach Normal Form, 
+Cock-Younger-Kasami(CYK) Algorithm, Applications to Parsing. 
+
+Unit-4
+Pushdown Automata
+Pushdown Automata (PDAs), PDAs vs CFLs. Deterministic PDAs and CFLs, applications, 
+notion of acceptance for PDAs: acceptance by final states, and by empty stack; the equivalence 
+of the two notions, Proof that CFGs generate the same class of languages that PDAs accept, 
+Pumping Lemma for CFLs.
+
+Unit-5
+Turing Machines and Computability
+Introduction to Turing Machines, Configurations, Halting vs Looping, Turing computability, 
+Nondeterministic, multitape and other versions of Turing machines. Church`s thesis, Universal 
+Turing Machines, Linear Bounded Automata (LBAs) and context-sensitivelanguages, 
+Recursive and Recursively enumerable languages, Undecidability of Halting Problem and 
+unsolvable problems about Turing Machines, the diagonalization language and proof that it is 
+not Recursively enumerable.

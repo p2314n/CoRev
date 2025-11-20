@@ -1,0 +1,30 @@
+Unit-I
+Introduction to digital communications, Components, Data Representation, Data Flow. Analog 
+and Digital Signals and their representation, Transmission Impairment, Data Rate Limits Nyquist's theorem, Shannon's theorem, Signal propagation, Signal types, Transmission mode 
+and techniques, Transmission Media-Guided and Non-Guided, Noise.
+
+Unit-II
+Encoding of Signals -Analog to Digital Conversion, Digital to Digital conversion, - Unipolar, 
+Polar, Bipolar line & block codes, Digital to Analog, Analog to Analog conversion, Spread 
+Spectrum-FHSS, DHSS, CDMA. Modulation and Demodulation of Signals. Multiplexing: 
+FDM, TDM, and WDM, QAM.
+Data compression-Frequency dependent codes Run length encoding, Relative encoding, LZ 
+Compression.
+
+Unit-III
+Switched Communication Networks: Circuit, Message, Packet & Hybrid Switching, Data 
+Gram Network, Connection oriented services Vs Connectionless services. Public Switching 
+Telephone Network, Digital Subscriber Line, ADSL, HDSL, SDSL, VDSL. Study of various 
+types of topology and their comparative study.
+
+Unit-IV
+Reference model- OSI and TCP/IP model and its comparison, Layers in the model and its 
+requirement, critiques of OSI and TCP/IP model, Use of Computer Networks. Architecture of 
+Internet. Addressing-Physical, Logical, Port. Various Networking devices, Peer to Peer 
+Protocols and service model.
+
+Unit-V
+Data Link Layer: -Transmission Errors : Content Error ,Error detection & Error correction ,Bit 
+error rate , Error detection methods: Parity checking , Checksum Error Detection ,CRC
+,Hamming code . Framing, Flow error Control - ARQ, Sliding Window Protocol, HDLC and 
+PPP. L-2 Switches, Bridges.

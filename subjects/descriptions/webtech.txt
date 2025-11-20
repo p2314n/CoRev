@@ -1,0 +1,21 @@
+Unit – I Introduction: Concept of WWW, HTTP Protocol: Request and Response, Web 
+browser architecture and Web servers and Application servers, Features of Web 2.0, 
+Internetworking with TCP/IP, basics of DNS, SMTP, POP3.
+
+Unit - II Web Design: Concepts of effective web design, Planning and publishing website, 
+Introduction to web architecture, HTML: list, tables, images, frames, forms, Document type 
+Definition (DTD), Document Object Model (DOM), Cascading Style Sheets and their types, 
+Java Script: Introduction, documents, forms, statements, functions, objects.
+
+Unit - III Introduction to XML, XML vs HTML uses of XML, simple XML, XML key 
+components, DTD, and Schemas, embedding XML into HTML documents, Transforming 
+XML using CSS, XSL, and XSLT.
+
+Unit - IV PHP: working with variables and constants, controlling program flow, working with 
+functions, arrays, files, and directories, working with forms and databases, Introduction to 
+Servlet, Lifecycle, API, and Servlet Packages.
+
+Unit - V Introduction to Java Server Page (JSP), JSP Application Design, JSP objects, 
+Conditional Processing, declaring variables and methods, sharing data between JSP pages, 
+Sharing Session and Application Data, Database Programming using JDBC, web application 
+framework, MVC framework, Introduction to bootstrap, angular JS.

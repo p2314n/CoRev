@@ -1,0 +1,26 @@
+Unit-1 Introduction to Algorithms
+Algorithms, Analysis, Performance issues: Time and Space complexity; Asymptotic Notations.
+Mathematical preliminaries: functions & their growth rates; Recurrence relations, Methods for 
+solving recurrences. Elementary Sorting techniques and its analysis: Selection, Bubble, 
+Insertion sort
+
+Unit-2 Sorting and Divide & Conquer 
+Advance sorting techniques and its analysis: Heap sort, Radix sort and Bucket sort, Divide and 
+Conquer techniques and its analysis - Binary search, Merge Sort, Quick sort, Strassen’s Matrix 
+multiplication.
+
+Unit-3 Greedy Algorithms
+Greedy problems and its complexity analysis: Optimal merge patterns, Huffman coding, 
+Minimum spanning trees, Knapsack problem, Job sequencing with deadlines, Single source 
+shortest path problem - Dijkstra’s Algorithm 
+
+Unit-4 Dynamic Programming
+Dynamic programming problems and its complexity analysis: 0/1 Knapsack, Multistage graph, 
+Bellman Ford Algorithm, Reliability design, Floyd-Warshall algorithm, Matrix Chain 
+Multiplication, Longest Common subsequence.
+ 
+Unit-5 Backtracking and Branch & Bound
+Backtracking Approach: N-Queen’s problem, Hamiltonian cycle, Graph coloring problem, 
+Sum of Subset problem. Introduction to branch & bound method, examples of branch and 
+bound method like15 puzzle traveling salesman problem, 0/1 knapsack. An introduction to P, 
+NP, NP Complete and NP hard problems.

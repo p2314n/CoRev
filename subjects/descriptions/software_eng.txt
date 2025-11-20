@@ -1,0 +1,24 @@
+Unit 1
+Software Engineering – Definition, Process, Evolution and Myths, Generic Process Model, 
+Framework, Process Models – Waterfall, Incremental, Evolutionary, Spiral, Component 
+Based Model, Rational Unified Process 
+
+Unit 2
+Requirement Analysis, Stakeholders, Elicitation Techniques, Requirement Modelling - Use 
+Cases, Activity Diagrams, Swimlane Diagrams, Data Modelling, Data Flow Diagram, 
+Overview of Class Based Modelling, requirement Tracking.
+
+Unit 3
+Principles of Software Design, Design Concepts – Abstraction, Architecture, Modularity, 
+Relationships, Design Model, Component Design, User Interface Design, Configuration 
+Management
+
+Unit 4
+Software Quality, Approaches for Quality Assurance, Software Testing, Verification and 
+Validation, Types of Testing, Risk Assessment, Risk Mitigation, Monitoring and 
+Management
+
+Unit 5
+Software Metrics, Process Metrics, Product Metrics, Function Oriented Metrics, Software 
+Project Estimations, Function Point Based Metrics, COCOMO Models, Project Scheduling, 
+Effort Distribution

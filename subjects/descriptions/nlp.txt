@@ -1,0 +1,22 @@
+Unit-1 Introduction
+Human languages, Main approach of NLP, Knowledge in speech and language processing, 
+Ambiguity, Models and algorithms, Formal language and Natural Language, Regular 
+Expression and automata.
+
+Unit-2 Text Pre-processing
+Text Pre-processing, Tokenization, Feature Extraction from text, Morphology: Inflectional and 
+Derivational, Finite state morphological parsing, Finite state transducer
+Part of Speech Tagging: Rule based, Stochastic POS, Transformation based tagging.
+
+Unit-3 Speech Processing
+Speech and phonetics, Vocal organ, Phonological rules and Transducer, Probabilistic models: 
+Spelling error, Bayesian method to spelling, Minimum edit distance, Bayesian method of 
+pronunciation variation.
+
+Unit-4 N-Grams
+Simple N-Gram, perplexity, Smoothing, Backoff, Entropy, Parsing: Statistical Parsing, 
+Probabilistic parsing, TreeBank. 
+
+Unit-5 Application
+Sentiment analysis, Spelling correction, Word sense disambiguation, Machine translation, Text 
+Classification, Question answering system

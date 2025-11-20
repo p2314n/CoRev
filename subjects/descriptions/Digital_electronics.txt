@@ -1,0 +1,32 @@
+Unit-I
+Number System: Introduction to binary numbers, data representation, binary, octal, 
+hexadecimal number system and their conversion, various coding schemes such as BCD codes, 
+Excess-3 code, Gray code. Binary arithmetic, Boolean Algebra, Basic Theorems and properties 
+of Boolean Algebra, Boolean Functions, Canonical and Standard forms, minimization 
+techniques, Sum of products and Product of Sums Simplification, Karnaugh's map method, 
+Quine Mecluskey method.
+
+Unit-II
+Logic Gates and Combinational Logic
+Digital Logic Gates such as AND, OR, NAND,NOR, EX-OR,EX-NOR. Realization of 
+Boolean functions using logic gates. Adders, substractors, BCD adder, magnitude comparator, 
+decoders and encoders, multiplexers and demultiplers, code converters. Analysis and design of 
+combinational circuits. Implementation of combinational logic using multiplexers, decoders 
+etc.
+
+Unit-III
+Sequential Circuits
+Introduction, comparison of sequential and combinational circuits. Various types of flip-flops 
+and their conversions, triggering of flip flops, timing issues, setup and hold times, registers, 
+counters, ring, johnson, asynchronous and synchronous. Finite state machines, Moore and 
+Mealy, design of synchronous sequential circuits.
+
+Unit-IV 
+Memories
+ROM, PLA and PAL. Memories: organisation and construction of RAM, SRAM, DRAM, 
+ROM, PROM, EPROM, EEPROM.
+
+Unit-V
+Logic Families
+DTL, RTL, TTL, IIL, PMOS, NMOS and CMOS logic families, interfacing between TTL and 
+MOS vice-versa.

@@ -1,0 +1,29 @@
+Unit-1
+Basic Concepts: Data Vs Information, Definition of Database, Advantages of Database 
+Systems, Components of DBMS, DBMS Architecture and Data Independence, Data 
+modelling, Entity Relationship Model, Relational, Network, Hierarchical and ObjectOriented Models. Data Modelling Using the Entity Relationship Model.
+
+Unit-2
+Relational Database: Relational Databases, Relational Algebra, Relational Algebra 
+Operation, Tuple Relational Calculus, Domain Relational Calculus. Data Definition with 
+SQL, Inserts, Delete and Update Statements in SQL, Views, Data Manipulation with 
+SQL, PL/ SQL constructs: Triggers, Cursors etc.
+
+Unit-3
+Database Design: Design Guidelines, Key concepts, Relational Database Design, 
+Integrity Constraints, Domain Constraints, Referential Integrity, Functional 
+Dependency, decomposition, Normalization Using Functional Dependencies: Normal 
+Forms, First, Second and Third Normal Forms. Boyce Codd Normal Form, Multivalued 
+Dependencies and Forth Normal Form, Join Dependencies and Fifth Normal Form, 
+Decomposition in 2NF, 3NF and BCNF.
+
+Unit-4
+Database Transactions Processing: Introduction to Transaction Processing, Transaction 
+Concepts, Desirable Properties of Transactions, Schedules, Concepts of Recoverability 
+and Serializability, Concurrency control: introduction, locking protocols.
+
+Unit-5
+Query Processing and Optimization, File organization and indexes, hashing techniques, 
+B tree, B+ tree etc. Introduction to advanced databases: Distributed databases, Object 
+oriented databases, mobile and web databases, Introduction to data warehousing and 
+mining.

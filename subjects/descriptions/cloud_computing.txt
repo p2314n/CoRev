@@ -1,0 +1,18 @@
+Unit-1 Introduction to cloud computing, characteristics of cloud computing as per NIST,
+cloudreference model, application of cloud computing ECG analysis, protein structure 
+prediction, cloud deployment models.
+
+Unit-2 Virtualization, virtualization advantages, Full virtualization, para-virtualization,
+hypervisors. Cloud interoperability, cloud service management, cloud analytics, Cloud 
+broker,Capex, Opex, cloud architecture.
+
+Unit-3 Platform as a service, Infrastructure as a service, software as a service, Desktop as 
+a service, Backup as a service, DRaaS, Introduction to SLA, SLA lifecycle, SLA 
+management,Business continuity plan.
+
+Unit-4 Cloud security fundamentals, vulnerability assessment, security architecture, 
+identitymanagement and access control, data at rest, data in flight, data in motion, security 
+in virtualization.
+
+Unit-5 Cloud application development platforms, Xen hypervisor, AWS, Google app 
+engine,open stack.

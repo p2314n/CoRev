@@ -1,0 +1,28 @@
+Unit-I
+Sets, sub-sets & operations on sets, Finite and infinite sets, principle of inclusion and exclusion 
+Relations & Properties of relations – equivalence relation, Functions: Definition, Classification 
+of functions, Composition of functions, Growth of Functions, Pigeon hole principle.
+
+Unit-II
+Partial order relation, Poset, least upper bound, greatest lower bound, maximal and minimal 
+elements of a poset – Definition & example of Boolean algebra – Lattices, Distributive laws in 
+lattices – Complemented lattices – Propositional Calculus – Boolean functions, minimum & 
+maximum terms, simplification of Boolean function with Karnaugh map &Quiane Mc Clusky 
+method. Applications in computer Science.
+
+Unit-III
+Binary composition, algebraic structure, Semi group, Monoid, Groups, Abelian Group, 
+properties of groups, Coset Decomposition, Subgroup, Cyclic Group, Normal subgroup, Rings 
+and Fields (definition and standard results). Applications in Computer Science.
+
+Unit-IV
+Trees: Definition, Binary tree, Binary tree traversal, Binary search tree. Graphs: Definition and 
+terminology, Representation of graphs, Multigraphs, Bipartite graphs, Planar graphs , 
+Isomorphism and Homeomorphism of graphs , Euler and Hamiltonian paths , Graph coloring. 
+Application in Computer Science.
+
+Unit –V
+Recurrence Relation & Generating function: Recursive definition of functions, Recursive 
+algorithms, Method of solving recurrence relation. Combinatorics: Introduction, Counting 
+Techniques -Basic theorems on permutations & combinations. Applications in Computer 
+Science.

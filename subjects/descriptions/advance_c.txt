@@ -1,0 +1,26 @@
+Unit-I Pointers 
+Introduction to Pointers (Declaration and Initialization), Double Pointer, Pointers and Array, Pointers and 
+Functions, Operations on Pointers.
+
+Unit-II User Defined Data Types
+Defining a Structure, Declaration of Structure Variables, Initialization of Structure Variables, Accessing Structure 
+Members, Storage of Structures in Memory Array within a Structure, Array of Structure, Pointer Structure, 
+Passing Structure to a Function, Structure within a Structure. Define Union, Structure versus Union, Working 
+with Union, Initializing Union, Enumerated Data Type.
+
+Unit-III Pre-processor and Memory Allocation
+Pre-processor Directives, Macro and Macro Expansions, File Inclusions, Conditional Compilation, 
+Stringification (#) and Token Passing Operator (##), Type Def, Command Line Argument, Dynamic Memory 
+Allocation. malloc(), calloc(), realloc(), free(), Core Dump, Memory Leak, Dynamic 1D and 2D Arrays. Header 
+Files and Their Creations.
+
+Unit-IV File Handling 
+File Concept, File Pointer and File Handling Operations Using files in C, Buffer and Streams, Working with Text 
+Files and Binary Files, File Operations using std. Library and System Calls, File Management I/O Functions, 
+Random Access Files.
+
+Unit-V Graphics Programming
+C Header Files for handling graphics and initializing graphics mode, Understand Coordinate system, Function to 
+Draw Lines,Circle, Arc, Ellipse, pieslice, sector, Rectangle, Bar, 3-D Bars & Polygon, Color Spraying: filling 
+Ellipse, polygons and flooding the fills, Filling Styles and Patterns, Understand Animation, Function to create 
+Animation, Traffic Light and Moving Car Simulation.

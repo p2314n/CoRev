@@ -1,0 +1,27 @@
+Unit-I
+Definitions and Types of Data Structures, Concept of Linear and Non-Linear, Static and 
+Dynamic, Primitive and Non-Primitive, Persistent and Non-Persistent Data structure, 
+Overview of array, one dimensional array and multidimensional array, Pointers, Recursive 
+functions
+
+Unit-II
+Concept of Linked List organization, Singly List, Doubly List, Circular list and doubly circular 
+Linked List Operations: Linked list implementation of stack and queue, Applications of Linked 
+List data structure
+
+Unit-III
+Stack, Primitive Stack operations, Array Implementation of Stack, Multiple Stack, Application 
+of stack: Prefix and Postfix Expressions, Evaluation of postfix expression, Recursion, Tower 
+of Hanoi Problem, Queue, Overview of Queue, Operations on Queue, Circular Queues, Array 
+implementation of Queues, Dequeue and Priority Queue
+
+Unit-IV
+Searching and Sorting, Sequential search, Binary Search, Internal and external Sort, Bubble 
+Sort, Selection Sort, Insertion Sort, Shell Sort, Radix Sort, Quick Sort and Merge Sort. Hashing: 
+Hash Function, Collision Resolution Strategies, Storage Management: Garbage Collection and 
+Compaction
+
+Unit-V
+Trees, Basic terminology, Binary Trees, Binary Tree Representation, Complete Binary Tree, 
+Algebraic Expressions, Extended Binary Trees, Array and Linked Representation of Binary 
+trees, Tree Traversal, Threaded Binary trees, AVL tree, Heaps

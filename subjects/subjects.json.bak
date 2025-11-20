@@ -1,0 +1,164 @@
+[
+  {
+    "id": "c_basic",
+    "name": "Basic Programming in C",
+    "image": "csa.png",
+    "desc": "Learn the fundamentals of C programming."
+  },
+  {
+    "id": "advance_c",
+    "name": "Advance Programming in C",
+    "image": "advanceC.jpeg",
+    "desc": "Dive deeper into advanced C programming concepts."
+  },
+  {
+    "id": "discrete_math",
+    "name": "Discrete Mathematics",
+    "image": "discretemath.png",
+    "desc": "Study logic, sets, relations, and graph theory."
+  },
+  {
+    "id": "Oops",
+    "name": "Object Oriented Programming",
+    "image": "oops.png",
+    "desc": "Understand classes, objects, and OOP principles."
+  },
+  {
+    "id": "ds",
+    "name": "Data Structures",
+    "image": "ds.png",
+    "desc": "Learn about arrays, stacks, queues, and trees."
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "image": "java.png",
+    "desc": "Introduction to Java programming and applications."
+  },
+  {
+    "id": "digital_electronics",
+    "name": "Digital Electronics",
+    "image": "researchmethodology.png",
+    "desc": "Study logic gates, circuits, and digital systems."
+  },
+  {
+    "id": "data_communication",
+    "name": "Data Communication",
+    "image": "datacommunication.png",
+    "desc": "Explore data transmission and networking basics."
+  },
+  {
+    "id": "csa",
+    "name": "Computer System Architecture",
+    "image": "csa.png",
+    "desc": "Understand CPU design, memory, and instruction sets."
+  },
+  {
+    "id": "microprocessor",
+    "name": "Microprocessor and Interfacing",
+    "image": "algo.png",
+    "desc": "Learn microprocessor concepts and hardware interfacing."
+  },
+  {
+    "id": "os",
+    "name": "Operating Systems",
+    "image": "os.png",
+    "desc": "Study process management, scheduling, and memory."
+  },
+  {
+    "id": "advance_java",
+    "name": "Advance Java",
+    "image": "advjava.png",
+    "desc": "Advanced features of Java including JDBC, servlets, and JSP."
+  },
+  {
+    "id": "toc",
+    "name": "Theory of Computation",
+    "image": "toc.png",
+    "desc": "Learn automata, grammars, and computational theory."
+  },
+  {
+    "id": "dbms",
+    "name": "DBMS",
+    "image": "dbms.png",
+    "desc": "Understand relational databases and SQL."
+  },
+  {
+    "id": "statistics",
+    "name": "Statistical Analysis",
+    "image": "se.png",
+    "desc": "Study probability, distributions, and data analysis."
+  },
+  {
+    "id": "webtech",
+    "name": "Internet and Web Technology",
+    "image": "webtech.png",
+    "desc": "Learn HTML, CSS, JavaScript, and web development."
+  },
+  {
+    "id": "cloud_computing",
+    "name": "Cloud Computing",
+    "image": "cloudcomputing.png",
+    "desc": "Understand cloud architecture, services, and deployment."
+  },
+  {
+    "id": "software_eng",
+    "name": "Software Engineering",
+    "image": "se.png",
+    "desc": "Learn SDLC, design models, and software quality."
+  },
+  {
+    "id": "computer_networks",
+    "name": "Computer Network",
+    "image": "computernetworks.png",
+    "desc": "Study protocols, layers, and network architectures."
+  },
+  {
+    "id": "data_science",
+    "name": "Data Science",
+    "image": "python.png",
+    "desc": "Explore data analysis, visualization, and prediction."
+  },
+  {
+    "id": "nosql",
+    "name": "No SQL Database",
+    "image": "nosql.png",
+    "desc": "Introduction to NoSQL databases like MongoDB."
+  },
+  {
+    "id": "expert_systems",
+    "name": "Expert Systems",
+    "image": "ai.png",
+    "desc": "Study rule-based systems and AI problem solving."
+  },
+  {
+    "id": "nlp",
+    "name": "Natural Language Processing",
+    "image": "ai.png",
+    "desc": "Learn how machines process human language."
+  },
+  {
+    "id": "ai",
+    "name": "Artificial Intelligence",
+    "image": "ai.png",
+    "desc": "Explore intelligent systems and AI algorithms."
+  },
+  {
+    "id": "iot",
+    "name": "Internet of Things",
+    "image": "iot.jpg",
+    "desc": "Learn IoT devices, sensors, and applications."
+  },
+  {
+    "id": "python",
+    "name": "Python Essential",
+    "image": "python.png",
+    "desc": "Introduction to Python basics and libraries."
+  },
+  {
+    "id": "compiler",
+    "name": "Compiler Design",
+    "image": "compiler design.png",
+    "desc": "Study lexical analysis, parsing, and code generation."
+  }
+]

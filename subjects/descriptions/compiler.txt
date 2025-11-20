@@ -1,0 +1,24 @@
+Unit-1
+Compiler structure: Pass Structure of compiler, Translators, Interpreter, Assembler, Phases of 
+Compilers, Symbol Table, Error Handling, Lexical Analyzer: Role of Lexical Analyzer, Specification 
+of tokens, Recognition of tokens and input Buffering, The Syntactic Specification of Programming 
+Languages, Cross Compiler, bootstrap Compiler.
+
+Unit-2
+Ambiguous Grammar, LL(0) and LL(1) grammar, Parsing, Basic Parsing Techniques: Top Down 
+parsers, Recursive Descent Parsers, First() and Follow(), Recursive and Non- Recursive Predictive 
+Parsers.
+
+Unit-3
+LR Grammar, Operator Grammar, Bottom Up Parsing: Operator precedence parsing, LR(0) parsers, 
+Construction of SLR, Canonical LR and LALR parsing tables.
+
+Unit-4
+Syntax Directed Definition, Translation Scheme, Synthesized and inherited attributes, dependency 
+graph, Construction of syntax trees, S-attributed and L-attributed definitions, Three address codes, 
+quadruples, triples and indirect triples, Translation of assignment statements.
+
+Unit-5
+Storage organization, activation trees, activation records, allocation strategies, Parameter passing 
+symbol table, dynamic storage allocation, Basic blocks and flow graphs, Optimization of basic blocks, 
+Loop optimization, Global data flow analysis, Loop invariant computations

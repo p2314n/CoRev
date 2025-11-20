@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/login.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/logo.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800&display=swap" rel="stylesheet">
+  
+</head>
+<body>
+  {% include 'html/logo.html' %}
+  <main class="card" role="region" aria-labelledby="title">
+    <h1 id="title">Welcome Back</h1>
+    <p class="subtitle">Login to your account</p>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <ul class="flashes">
+          {% for category, message in messages %}
+            <li class="{{ category }}">{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    <form id="loginForm" action="{{ url_for('login_bp.login') }}" method="post" novalidate>
+      <div>
+        <label for="username">Username<span aria-hidden="true">*</span></label>
+        <input id="username" name="username" type="text" placeholder="Enter username" required />
+        <div class="note" id="usernameNote" aria-live="polite"></div>
+      </div>
+
+      <div class="password-wrapper">
+        <label for="password">Password<span aria-hidden="true">*</span></label>
+        <div class="password-field">
+          <input id="password" name="password" type="password" placeholder="Enter password" required />
+          <span id="togglePassword" class="toggle-eye" title="Show/Hide Password">👁️</span>
+        </div>
+        <div class="note" id="passwordNote" aria-live="polite"></div>
+      </div>
+
+      <div class="actions">
+        <button type="submit" class="primary">Login</button>
+      </div>
+
+      <p class="bottom-text">
+        Don’t have an account?
+        <a href="{{ url_for('register_bp.register') }}">Register here</a>
+      </p>
+    </form>
+  </main>
+
+  <script src="{{ url_for('static', filename='js/login.js') }}"></script>
+</body>
+</html>

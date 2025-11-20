@@ -1,0 +1,35 @@
+Unit 1: Introduction to Expert Systems 
+Expert Systems Definition and Applications: Understanding the fundamentals of expert 
+systems, their role in AI, and real-world applications in various industries. History and 
+Evolution of Expert Systems. Components of an Expert System: knowledge base, inference 
+engine, user interface, explanation facility etc. Expert System vs Conventional Systems: 
+Architecture and Functionalities 
+
+Unit 2: Knowledge Acquisition and Representation 
+Knowledge Acquisition: Methods and tools for acquiring knowledge from experts, including 
+interviewing techniques and the use of knowledge acquisition software. Knowledge 
+Engineering: Process of designing and building expert systems, with a focus on the roles and 
+responsibilities of a knowledge engineer. Structured Knowledge Representation: Exploring 
+structured techniques for representing knowledge specifically in expert systems, focusing on 
+production rules and decision tables. Ontologies in Expert Systems.
+
+Unit 3: Inference Techniques and Rule-Based Systems
+Inference Mechanisms: Forward chaining and backward chaining. Rule-Based Systems: 
+Structure, Function, and application in expert systems, Broader knowledge representation.
+Case-Based Reasoning, Expert System Architectures: Different architectural approaches for 
+designing expert systems, including modular, distributed, and blackboard architectures.
+
+Unit 4:
+Expert System Development Tools: Expert System Shells: Overview of various expert 
+system shells like CLIPS, Jess, and Drools.
+Building Expert Systems: knowledge base creation, rule development, testing etc. Evaluation 
+and Validation: Techniques for evaluating the performance and accuracy of expert systems, 
+and methods for validating the correctness. Maintenance of Expert Systems.
+
+Unit 5: 
+Advanced Topics and Future Trends 
+Integration with other Technologies like IoT and big data analytics. Scalability and 
+Performance. Ethical and Social Implications including issues of trust, accountability, and job 
+displacement. Future Trends in Expert Systems including advancements in adaptive and selflearning systems,
+ and emerging applications in various fields. Case Studies and Industry 
+Applications.

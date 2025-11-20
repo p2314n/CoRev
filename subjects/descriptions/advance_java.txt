@@ -1,0 +1,26 @@
+Unit-1 Collection and Generic
+Introduction to Generics, Generics Types and Parameterized Types, Wildcards, Java 
+Collection Framework, Collections (Basic Operations, Bulk Operations, Iteration) List, Set, 
+Maps Lambda Expressions - Lambda Type Inference, Lambda Parameters, Lambda Function 
+Body, Returning a Value, From a Lambda Expression, Lambdas as Objects. 
+
+Unit-2 Introduction Java EE Programming and Servlets
+Basics of Web Application, web client and web server, Servlets, HTTP Methods; GET, POST, 
+PUT, DELETE, TRACE, OPTIONS, MVC design pattern, Init Parameters, Servlet Context, 
+Inter Servlet Communication, Servlet Listeners, Servlet Filters.
+
+Unit-3 JDBC and JSP
+Managing JDBC Connection, Configuring Data Source to obtain JDBC Connection, Data 
+Access operations with JDBC Template, RDBMS operation classes, JSP Architecture, JSP 
+building blocks, Scripting Tags, implicit object, Introduction to Bean, standard actions,
+session tracking types and methods. Custom Tags, Introduction to JSP Standard Tag Library 
+(JSTL) and JSTL Tags. 
+
+Unit-4 Spring Frameworks
+Introduction to Spring Framework, OJO Programming Model, Lightweight Containers 
+(Spring IOC container, Configuration Metadata, Configuring and using the Container) 
+Dependency Injection with Spring- Setter Injection, Constructor Injection
+
+Unit-5 JDBC and Spring Boot
+Data Access operations with JDBC Template and Spring , Modelling JDBC Operations as 
+Java Objects, Spring Boot and Database, Spring Boot Web Application Development

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "c_basic",
+    "name": "Basic Programming in C",
+    "image": "c.png",
+    "desc": ""
+  },
+  {
+    "id": "advance_c",
+    "name": "Advance Programming in C",
+    "image": "advc.png",
+    "desc": ""
+  },
+  {
+    "id": "discrete_math",
+    "name": "Discrete Mathematics",
+    "image": "dm.png",
+    "desc": ""
+  },
+  {
+    "id": "Oops",
+    "name": "Object Oriented Programming",
+    "image": "oops.png",
+    "desc": ""
+  },
+  {
+    "id": "ds",
+    "name": "Data Structures",
+    "image": "dsa.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "image": "java.png",
+    "desc": ""
+  },
+  {
+    "id": "digital_electronics",
+    "name": "Digital Electronics",
+    "image": "de.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "data_communication",
+    "name": "Data Communication",
+    "image": "dc.png",
+    "desc": ""
+  },
+  {
+    "id": "csa",
+    "name": "Computer System Architecture",
+    "image": "csa.png",
+    "desc": ""
+  },
+  {
+    "id": "microprocessor",
+    "name": "Microprocessor and Interfacing",
+    "image": "mic.png",
+    "desc": ""
+  },
+  {
+    "id": "os",
+    "name": "Operating Systems",
+    "image": "os.png",
+    "desc": ""
+  },
+  {
+    "id": "advance_java",
+    "name": "Advance Java",
+    "image": "advjava.png",
+    "desc": ""
+  },
+  {
+    "id": "toc",
+    "name": "Theory of Computation",
+    "image": "toc.png",
+    "desc": ""
+  },
+  {
+    "id": "dbms",
+    "name": "DBMS",
+    "image": "dbms.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "statistics",
+    "name": "Statistical Analysis",
+    "image": "sa.png",
+    "desc": ""
+  },
+  {
+    "id": "webtech",
+    "name": "Internet and Web Technology",
+    "image": "iwt.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "cloud_computing",
+    "name": "Cloud Computing",
+    "image": "cloudcomp.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "software_eng",
+    "name": "Software Engineering",
+    "image": "se.png",
+    "desc": ""
+  },
+  {
+    "id": "computer_networks",
+    "name": "Computer Network",
+    "image": "cn.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "data_science",
+    "name": "Data Science",
+    "image": "ds.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "nosql",
+    "name": "No SQL Database",
+    "image": "nosql.png",
+    "desc": ""
+  },
+  {
+    "id": "expert_systems",
+    "name": "Expert Systems",
+    "image": "es.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "nlp",
+    "name": "Natural Language Processing",
+    "image": "nlp.png",
+    "desc": ""
+  },
+  {
+    "id": "ai",
+    "name": "Artificial Intelligence",
+    "image": "ai.jpeg",
+    "desc": ""
+  },
+  {
+    "id": "iot",
+    "name": "Internet of Things",
+    "image": "iot.png",
+    "desc": ""
+  },
+  {
+    "id": "python",
+    "name": "Python Essential",
+    "image": "python.png",
+    "desc": ""
+  },
+  {
+    "id": "compiler",
+    "name": "Compiler Design",
+    "image": "cd.jpeg",
+    "desc": ""
+  }
+]

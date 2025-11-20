@@ -1,0 +1,30 @@
+Unit -1 Summarizing Data using Statistical Measures:
+Descriptive Statistics – Measure of central tendency - Mean: Arithmetic mean, Geometric 
+mean and Harmonic mean with its Mathematical properties, Properties of mean, Median 
+and mode, Relationship among mean, median and mode, Measure of dispersion – standard 
+deviation, Variance, Covariance and its properties, Coefficient of variation, Quartiles, 
+Quartile deviation and Mean deviation.
+
+Unit -2 Theory of Random variables and Probability:
+Random variables- Discrete and Continuous random variables, Mass and Density function 
+(pmf, pdf), Cumulative Distribution function, Expectation of a random variables, 
+Expectation of random variable in terms of variance, Introduction to probability theory, 
+Trial and Event, law of probability theory, Introduction to Conditional probability.
+
+Unit-3 Probability Distribution:
+Discrete Distribution: Binomial, Poisson distribution with mean variance, Moment 
+generating function.
+Continuous Distribution: Normal and Exponential Distribution with mean variance, 
+Moment generating function. 
+
+Unit -4 Curve fitting, Correlation, Regression:
+Curve fitting (Method of Least Square), linear and nonlinear curves, Correlation, Karl 
+Pearson’s Coefficient of Correlation, Spearman’s Rank Correlation Coefficient, Linear 
+Regression, Regression coefficients, Properties of regression curve.
+Unit -5 Testing of Hypothesis and Analysis of variance:
+
+Introduction to testing of hypothesis, Statistical assumptions, Level of significance, 
+Confidence level, Type I Error, Type II error, Critical value, Power of the test, sampling 
+distribution, Chi-Square test, small sample test – t test for one and two sample mean, F test, 
+Fisher Z test of population variance, Introduction to one way and two way analysis of 
+variance (ANOVA)

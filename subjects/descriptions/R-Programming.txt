@@ -1,0 +1,19 @@
+Unit 1 - R basics
+Introduction: Basic features of R, advantages of using R, Limitations, R resources, 
+Arithmetic and objects, Math, Variables, and Strings, Vectors and Factors, Vector 
+operations.
+
+Unit 2 - Data structures in R
+Data types, Arrays, Tables, Matrices: operations, Lists: operations, Data frames: creation, 
+factors, reading.
+
+Unit 3 - R programming fundamentals
+Conditions and loops, Functions in R, Objects and Classes, Recursion, Debugging
+
+Unit 4 - Working with data in R
+Reading CSV and Excel Files, Reading text files, Writing and saving data objects to file in 
+R, Reading in larger, Datasets, Exporting data. Interface to outside world.
+
+Unit 5 – String & Dates in R, Graphics 
+String operations in R, Regular Expressions, Dates in R, Time in R, Graphics: one 
+dimension plot, legends, function plot, box plot.
