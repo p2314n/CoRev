@@ -152,7 +152,7 @@ Then open your browser at:
 
 
 
-# 📸 Screenshots
+##  📸 Screenshots
 
 Registration Page:
 
@@ -169,4 +169,14 @@ Dashboard/Home Page:
 Subject Page:
 
 <img src="extras/screenshots/Subject.png" width="400">
+
+##  Future Improvements
+
+-> Email verification
+
+-> Admin dashboard
+
+-> Export reviews
+
+-> Analytics Report (using Data science and AI/ML)
 
