@@ -28,7 +28,6 @@ CoRev (Course Review) is a platform where students and educators can:
 This project is built using Flask (Python) and MongoDB, with a clean UI powered by HTML, CSS, and JS.
 
 ## Features
-✨ Features
 
 🔐 User Authentication
 	•	Secure password hashing
